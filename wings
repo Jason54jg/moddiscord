@@ -1,1 +1,4 @@
-[{'DevName': 'CherchePas', 'WingsColor': [Decimal('0'), Decimal('62'), Decimal('255')], 'Size': [Decimal('2'), Decimal('-1'), Decimal('-1')], 'Wings': True}, {'DevName': 'EnvoieTonSmic', 'WingsColor': [Decimal('0'), Decimal('62'), Decimal('255')], 'Size': [Decimal('2'), Decimal('-1'), Decimal('-1')], 'Wings': True}, {'DevName': 'AstraOfficiel', 'WingsColor': [Decimal('0'), Decimal('62'), Decimal('255')], 'Size': [Decimal('2'), Decimal('-1'), Decimal('-1')], 'Wings': True}, {'DevName': 'Ferg08', 'WingsColor': [Decimal('0'), Decimal('62'), Decimal('255')], 'Size': [Decimal('2'), Decimal('-1'), Decimal('-1')], 'Wings': True}]
+[
+  "2715e991-1b1b-46d4-9757-7c78a9356f5c",
+  "c4d79a61-bdda-453b-80f2-8d86ce03357f"
+]
